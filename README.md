@@ -40,11 +40,13 @@ const apiKey = "your_api_key_here";
 📷 Screenshots
 🌞 Light Mode
 
-(Add screenshot here)
+<img width="1893" height="912" alt="Screenshot 2025-09-12 000341" src="https://github.com/user-attachments/assets/f4f4a56a-9925-4b3c-a759-b2a3d2910d20" />
+
 
 🌙 Dark Mode
 
-(Add screenshot here)
+<img width="1897" height="877" alt="Screenshot 2025-09-12 000036" src="https://github.com/user-attachments/assets/a5b9c9d2-dffd-4e63-bedf-9e511bc64830" />
+
 
 💡 Future Improvements
 
