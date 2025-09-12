@@ -24,10 +24,6 @@ JavaScript (ES6) – API fetch & interactivity
 
 🔧 Setup Instructions
 
-Clone this repository:
-
-git clone https://github.com/your-username/weather-app.git
-
 
 Open the project folder.
 
